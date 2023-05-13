@@ -1,23 +1,22 @@
-
-Exercice #01
+Cadriciel - Exercice #01
 Viviane Silva
 
-Lien github : 
+Lien github : https://github.com/vivianebenevides/cadriciel-ex1 
 
 Lien webdev : https://e2295412.webdev.cmaisonneuve.qc.ca/Exercice1-CoffeeShop-Webdev/home
 
 Lien du thème utilisé : https://startbootstrap.com/previews/business-casual
 
 
-Comandos:
+Commandes utilisées :
 
-Criação do projeto:
+Création du projet :
 MacBook-Air-de-Viviane:cadriciel vivianebenevides$ composer create-project --prefer-dist laravel/laravel Exercice1-CoffeeShop "8.*"
 
-Démarrer un serveur:
+Démarrer un serveur :
 MacBook-Air-de-Viviane:Exercice1-CoffeeShop vivianebenevides$ php artisan serve
 
-Criação de um Controller:
+Création d'un Controller :
 MacBook-Air-de-Viviane:Exercice1-CoffeeShop vivianebenevides$ php artisan make:controller CoffeeShopController
 
 
